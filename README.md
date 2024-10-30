@@ -13,4 +13,27 @@ The primary goal of this project is to develop a robust deep learning framework 
 
 ![login](https://github.com/addyarishabh/Food-Classification-using-GAN/blob/2ea576c6c86bb96b954f77d6ea8d8173a2c075ec/Project_Workflow.png?raw=true)
 
+## Python Editor used:
+
+Visual Studio Code, Google Colab
+
+## Libraries Used:
+
+Pandas
+
+Numpy
+
+Matplotlib 
+
+Seaborn
+
+Request
+
+BeautifulSoup
+
+Scikit Learn
+
+OpenCV
+
+Pytorch
 

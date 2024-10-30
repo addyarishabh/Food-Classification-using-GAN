@@ -4,4 +4,4 @@
 # Duplicate-Question-Pairs-Checker
 ##### Duplicate Question Pairs Identificatin using NLP and Machine Learning Approach
 
-![login](https://github.com/addyarishabh/Duplicate-Question-Pairs-Checker/blob/8dc0acfdca557f64d5916484a830b41262fa0b1d/Quora%20image.png?raw=true)
+![login](https://github.com/addyarishabh/Food-Classification-using-GAN/blob/6658d0fc55dacdde95227abab88402a76c7dc529/Title%20image.jpg?raw=true)

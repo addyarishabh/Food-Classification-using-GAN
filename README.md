@@ -37,3 +37,14 @@ OpenCV
 
 Pytorch
 
+## Model Evaluation (Result):
+
+![login](https://github.com/addyarishabh/Food-Classification-using-GAN/blob/2ea576c6c86bb96b954f77d6ea8d8173a2c075ec/Project_Workflow.png?raw=true)
+
+## Best Model:
+
+![login](https://github.com/addyarishabh/Food-Classification-using-GAN/blob/2ea576c6c86bb96b954f77d6ea8d8173a2c075ec/Project_Workflow.png?raw=true)
+
+## Confusion Matrix (Final Model):
+
+![login](https://github.com/addyarishabh/Food-Classification-using-GAN/blob/2ea576c6c86bb96b954f77d6ea8d8173a2c075ec/Project_Workflow.png?raw=true)

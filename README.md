@@ -39,7 +39,7 @@ Pytorch
 
 ## Model Evaluation (Result):
 
-![login](https://github.com/addyarishabh/Food-Classification-using-GAN/blob/2ea576c6c86bb96b954f77d6ea8d8173a2c075ec/Project_Workflow.png?raw=true)
+![login](https://github.com/addyarishabh/Food-Classification-using-GAN/blob/f1e0e715eedaa3b00d8e3f561f304ff9d8cde681/Result.png?raw=true)
 
 ## Best Model:
 

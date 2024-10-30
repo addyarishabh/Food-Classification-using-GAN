@@ -43,7 +43,7 @@ Pytorch
 
 ## Best Model:
 
-![login](https://github.com/addyarishabh/Food-Classification-using-GAN/blob/2ea576c6c86bb96b954f77d6ea8d8173a2c075ec/Project_Workflow.png?raw=true)
+![login](https://github.com/addyarishabh/Food-Classification-using-GAN/blob/dd344ed680600e91a6ea60603653b6af75c6479a/Best%20Model.png?raw=true)
 
 ## Confusion Matrix (Final Model):
 
